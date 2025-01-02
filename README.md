@@ -132,16 +132,13 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [WhatsMyName](https://whatsmyname.app)        | Locate usernames across numerous platforms.                                   |
 | [NameCheck](https://www.namecheckr.com)       | Check username availability on various websites.                             |
 | [UserSearch](https://usersearch.org)          | Free tool to search usernames on 2000+ websites.                             |
-| [BlackBird](https://blackbird-osint.herokuapp.com) | Advanced tool for OSINT username searches.                                   |
 | [CheckUser](https://checkuser.vercel.app/)    | Search for usernames across social networks.                                 |
-| [Cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl) | Crawls adult content platforms to search for specific usernames.             |
 | [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html) | Free tool to verify usernames registered on hundreds of sites.               |
 | [IDCrawl](https://www.idcrawl.com/username)   | Find usernames on popular social networks.                                   |
 | [Maigret](https://github.com/soxoj/maigret)   | Collect detailed information on individuals using their username.            |
 | [Name Chk](http://www.namechk.com)            | Verify usernames on over 90 social media platforms and 30 domain extensions. |
 | [Name Checkr](http://www.namecheckr.com)      | Search for domains and usernames across multiple platforms.                  |
 | [Name Checkup](https://namecheckup.com)       | Check username and domain availability across social media and websites.     |
-| [NameKetchup](https://nameketchup.com)        | Explore domain name and username availability on popular platforms.          |
 | [NexFil](https://github.com/thewhiteh4t/nexfil) | Identify usernames across nearly all social network sites.                   |
 | [Seekr](https://github.com/seekr-osint/seekr) | Multi-tool for OSINT data management, note-taking, and username checking.    |
 | [SherlockEye](https://sherlockeye.io/)        | Discover publicly available information tied to a username.                  |
@@ -344,11 +341,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 |Tools|Description|
 |--|--|
-| [DnsEnum](https://www.google.com/search?btnI=1&q=DnsEnum) | Multithreaded Perl script for DNS enumeration and identifying non-contiguous IP blocks. |
 | [Amass](https://github.com/owasp-amass/amass) | Tool for subdomain enumeration using data sources, brute force, web archives, and machine learning. |
-| [Columbus Project](https://columbus.elmasy.com/) | Advanced subdomain discovery service with a fast, user-friendly API. |
 | [findsubdomains](https://findsubdomains.com/) | Automatically collects subdomains from various online sources. |
-| [Merklemap](https://www.merklemap.com/) | Enumerates subdomains, including hidden ones, by analyzing certificate transparency logs. |
 | [Subdomains Top 1 Million (5000)](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/subdomains-top1million-5000.txt) | List of subdomains from the top 1 million domains, ideal for large-scale enumeration. |
 | [Shubs Subdomains](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/shubs-subdomains.txt) | Subdomain list gathered by Shubs, valuable for reconnaissance purposes. |
 | [DNS Jhaddix List](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/dns-Jhaddix.txt) | Curated list of subdomains by Jhaddix, tailored for penetration testing. |
@@ -362,7 +356,6 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [ZoomEye](https://www.zoomeye.org)        | A freemium tool for security reconnaissance, scanning for vulnerable devices online.      |  
 | [Censys](https://www.censys.io)           | Assess the attack surface of internet-connected devices and platforms.                   |  
 | [ViewDNS.info](https://viewdns.info)     | Perform reverse IP and Whois lookups to find hosted websites and domain owner details.    |  
-| [Internet Census 2012](https://internetcensus2012.org) | Access service probe records from a large-scale 2012 internet scan.                      |  
 | [ONYPHE](https://www.onyphe.io)           | Cyber defense search engine that indexes exposed assets from the internet and dark web.  |  
 | [IPLeak](https://ipleak.net)             | Test for leaks in your IP address, DNS, and WebRTC during online activity.                |  
 | [Robtex](https://www.robtex.com)          | Research IP numbers, domains, and other online assets for deeper analysis.               |  
@@ -384,7 +377,6 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [IP Search](https://www.ipsearch.com)      | Access a network reputation database to find malicious IP addresses.                     |  
 | [Reverse Domain](https://www.reversedomain.com) | Discover domain names based on keyword searches.                                         |  
 | [IANA - Root Zone Database](https://www.iana.org/domains/root/db) | Provides delegation details for top-level domains (TLDs) like .com, .uk, and more.        |  
-| [PunkSpider](https://www.punkspider.org)   | Search for vulnerable websites to assess security risks.                                |  
 | [Metabigor](https://www.metabigor.com)     | Offers various OSINT tools without requiring an API key for access.                     |  
 | [URLDNA](https://www.urldna.com)           | Gather information about URLs, such as SSL certificates, IP, and metadata.               |  
 | [Check-The-Sum](https://www.checkthesum.com) | A database of malicious files, IPs, and domains collected from honeypots.                |
@@ -585,11 +577,9 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok) | Chrome extension for downloading photos and videos from Instagram. |
 | [Engagement-calculator](https://phlanx.com/engagement-calculator) | Tool for calculating engagement rates on Instagram. |
 | [Export Comments](https://exportcomments.com) | Tool for exporting Instagram comments. |
-| [Hashtagify](http://hashtagify.me) | Tool for finding and analyzing hashtags. |
 | [Hashtags for Likes](https://www.hashtagsforlikes.co) | Tool for finding the best hashtags for Instagram. |
 | [HypeAuditor](https://hypeauditor.com) | Tool for analyzing the authenticity of influencers and their engagement. |
 | [Iconosquare](http://iconosquare.com) | Tool for managing and analyzing Instagram accounts. |
-| [IGSuperStar](https://igsuperstar.com) | Tool for finding Instagram influencers. |
 | [Imgbunk](https://imgbunk.com) | Tool for searching and downloading Instagram photos. |
 | [ImgInn](https://imginn.com) | Tool for viewing and downloading Instagram stories anonymously. |
 | [In Tags](https://play.google.com/store/apps/details?id=com.sunraylabs.socialtags) | Tool for finding the best tags for your Instagram posts. |
@@ -610,16 +600,12 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [noninstagram](https://github.com/datvance/noinstagram) | Tool for Instagram data analysis. |
 | [Osi.ig](https://github.com/th3unkn0n/osi.ig) | Tool for Instagram OSINT. |
 | [Osintgram](https://github.com/Datalux/Osintgram) | OSINT tool for analyzing Instagram profiles and posts. |
-| [Otzberg.net](https://www.otzberg.net/iguserid/index.php) | Tool for finding Instagram user IDs. |
 | [Panoramiq](https://apps.hootsuite.com/apps/panoramiq) | Tool for scheduling and managing Instagram posts. |
 | [Phantom Buster](https://phantombuster.com/phantombuster) | Automation tool for social media platforms. |
-| [Picodash](https://www.picodash.com) | Tool for searching and organizing Instagram content. |
-| [Scylla](https://github.com/josh0xA/Scylla) | Tool for Instagram OSINT and data scraping. |
 | [Skimagram](https://snoopreport.com) | Tool for tracking Instagram activity. |
 | [Social-alerts](https://github.com/mamoedo/social-alerts) | Tool for setting up social media alerts. |
 | [SocialInsider](https://www.socialinsider.io) | Tool for social media analytics and competitive analysis. |
 | [socid_extractor](https://github.com/soxoj/socid_extractor) | Tool for extracting social media IDs. |
-| [SoIG](https://github.com/yezz123/SoIG) | Tool for Instagram OSINT. |
 | [tailwind](https://www.tailwindapp.com) | Tool for scheduling and managing Instagram posts. |
 | [ThumbTube](https://thumbtube.com/instagram-profile-picture-downloader) | Tool for downloading Instagram profile pictures. |
 | [trendHERO](https://trendhero.io) | Tool for influencer marketing and analytics. |
